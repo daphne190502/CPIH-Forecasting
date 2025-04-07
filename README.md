@@ -19,7 +19,7 @@ This project analyzes the impact of significant events, such as Brexit and the C
 
 ##Methodologies
 
-We employ a variety of statistical and machine learning techniques to analyze the data, including:
+We employ a variety of statistical and machine learning techniques to analyze the data, including:  
 •	Regression Models  
 •	Autoregressive Integrated Moving Average (ARIMA)  
 •	Long Short-Term Memory (LSTM) Networks  
