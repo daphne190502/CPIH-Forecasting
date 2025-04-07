@@ -5,8 +5,8 @@ This project analyzes the impact of significant events, such as Brexit and the C
 
 ## Objectives
 '''• Analyze the trends and patterns in CPIH, unemployment rates, and AWE.  
-• Establish correlations between economic indicators.
-• Predict future values using advanced machine learning models.
-• Validate predictions made by economists and organizations.
-• Provide insights for policymakers, investors, and businesses affected by economic fluctuations.
+• Establish correlations between economic indicators.  
+• Predict future values using advanced machine learning models.  
+• Validate predictions made by economists and organizations.  
+• Provide insights for policymakers, investors, and businesses affected by economic fluctuations.  '''
 
