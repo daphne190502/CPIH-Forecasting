@@ -17,8 +17,7 @@ This project analyzes the impact of significant events, such as Brexit and the C
 •	Unemployment Rates  
 •	Average Weekly Earnings (AWE)  
 
-##Methodologies
-
+## Methodologies
 We employ a variety of statistical and machine learning techniques to analyze the data, including:  
 •	Regression Models  
 •	Autoregressive Integrated Moving Average (ARIMA)  
